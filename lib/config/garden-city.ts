@@ -507,7 +507,7 @@ export const gardenCityConfig = {
     rera: {
       title: "RERA Information",
       description:
-        "Runwal Gardens Dombivali has been registered via MahaRERA registration number: P51700022699 and is available on the website <a href='https://maharera.mahaonline.gov.in/'>https://maharera.mahaonline.gov.in/</a> under registered projects.",
+        "Runwal Gardens Dombivali has been registered via MahaRERA registration number: P51700022699 and is available on the website <a class='text-blue-500 cursor-pointer hover:text-blue-600' href='https://maharera.mahaonline.gov.in/'>https://maharera.mahaonline.gov.in/</a> under registered projects.",
       details: [
         {
           title: "Runwal Gardens Dombivali",

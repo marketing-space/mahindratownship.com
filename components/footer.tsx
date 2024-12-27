@@ -12,15 +12,15 @@ export default function Footer() {
     <footer className="bg-gray-100 flex-grow-0 flex justify-center items-center h-14 lg:mb-0 mb-4">
       <p className="text-center text-sm text-gray-500">
         Copyright © 2024 |{" "}
-        <Link href={footer.termsConditions.href} className="text-primary">
+        <Link href={footer.termsConditions.href} className="text-blue-500 ">
           Terms & Conditions
         </Link>{" "}
         |{" "}
-        <Link href={footer.privacyPolicy.href} className="text-primary">
+        <Link href={footer.privacyPolicy.href} className="text-blue-500">
           Privacy Policy
         </Link>{" "}
         |{" "}
-        <Link href={footer.cookiesPolicy.href} className="text-primary">
+        <Link href={footer.cookiesPolicy.href} className="text-blue-500">
           Cookies Policy
         </Link>
       </p>
