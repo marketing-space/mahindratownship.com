@@ -47,7 +47,10 @@ export default function DeveloperSection() {
               </div>
             ))}
           </div>
-          <p className="text-xs text-gray-600">{legal.rera.description}</p>
+          <p
+            className="text-xs text-gray-600"
+            dangerouslySetInnerHTML={{ __html: legal.rera.description }}
+          />
         </div>
 
         {/* Legal Information */}
