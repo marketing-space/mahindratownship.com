@@ -7,7 +7,7 @@ import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import { getSiteConfig } from "@/lib/config";
 import { useSite } from "@/lib/context/site-context";
-
+import { GoogleTagManager } from "@next/third-parties/google";
 // Animation variants
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -62,9 +62,9 @@ const rippleVariants = {
 export default function ThankYouPage() {
   const router = useRouter();
   const { site } = useSite();
-  const { contact } = getSiteConfig(site);
+  const { contact, gtmId } = getSiteConfig(site);
   // Add countdown state
-  const [countdown, setCountdown] = useState(5);
+  const [countdown, setCountdown] = useState(10);
 
   // Add redirect effect
   useEffect(() => {
@@ -196,6 +196,7 @@ export default function ThankYouPage() {
           </motion.a>
         </motion.div>
       </motion.div>
+      <GoogleTagManager gtmId={gtmId} />
     </main>
   );
 }

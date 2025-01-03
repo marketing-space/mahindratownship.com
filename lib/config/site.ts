@@ -18,12 +18,11 @@ export const siteConfig = {
   about:
     "Founded in 1978, Runwal Group excels in establishing sprawling residential complexes, retail shopping malls, and commercial spaces. With a mission of developing standout landmarks rather than mere living spaces, Runwal homes are known for their aesthetic designs, plush interiors, and central green landscaping. Over the course of 40 years, the firm has become a leading face in real estate and changed the Mumbai skyline.",
   contact: {
-    phone: "+919876543210",
-    whatsapp: "+919876543210",
-    email: "sales@narangprivado.com",
-    address: "Thane West, Mumbai, Maharashtra 400615",
+    phone: "+919619095795",
+    whatsapp: "+919619095795",
+    address: "Manpada, Next to R Mall, Ghodbunder Road, Thane (W)",
   },
-
+  gtmId: "GTM-5MHGFLRJ",
   navbar: {
     navItems: [
       {
@@ -455,7 +454,7 @@ export const siteConfig = {
     callUs: {
       title: "Call Us",
       description: "Get in touch with our experts",
-      phone: "+91 98765 43210",
+      phone: "+91 96190 95795",
     },
     enquiryFeatures: [
       {
@@ -508,17 +507,12 @@ export const siteConfig = {
       {
         title: "RERA Numbers",
         description:
-          "RERA Project Registration No.: P51800000818 | P51800001838 | P51800001137",
+          "RERA Project Registration No.: P51700048270 / P51700048278",
       },
       {
         title: "Site Address",
         description:
-          "Runwal Forest: Lal Bahadur Shastri Marg, Ambedkar Nagar, Kanjurmarg West, Bhandup West, Mumbai, Maharashtra 400078",
-      },
-      {
-        title: "Corporate Office",
-        description:
-          "Corporate Office: Runwal Group: 4th Floor, Runwal & Omkar Esquare, Off, Eastern Express Hwy, opp. Sion-Chunabhatti, Sion East, Signal, Mumbai, Maharashtra 400022",
+          "Runwal 25 Hour Life: Manpada, Next to R Mall, Ghodbunder Road, Thane (W)",
       },
     ],
     disclaimer:
@@ -526,16 +520,11 @@ export const siteConfig = {
   },
 
   seo: {
-    title: "Runwal 25 Hour Life | Luxury Apartments in Thane",
+    title:
+      "Runwal 25 hr Life - Manpada, Thane | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Runwal 25 Hour Life, Thane. 2 & 3 BHK apartments with world-class amenities.",
-    keywords: [
-      "luxury apartments",
-      "thane west",
-      "narang realty",
-      "2 bhk",
-      "3 bhk",
-    ],
+      "Experience luxury living at Runwal 25 Hour Life, Manpada. 2 & 3 BHK apartments with world-class amenities.",
+    keywords: ["luxury apartments", "2 bhk", "3 bhk"],
   },
 
   footer: {
