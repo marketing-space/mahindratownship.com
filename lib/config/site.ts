@@ -20,8 +20,7 @@ export const siteConfig = {
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
-    address:
-      "Ghodbunder Rd, next to Rmall, Manpada, Thane West, Thane, Maharashtra 400607",
+    address: "Manpada, Next to R Mall, Ghodbunder Road, Thane (W)",
   },
   gtmId: "GTM-5MHGFLRJ",
   navbar: {
@@ -508,12 +507,12 @@ export const siteConfig = {
       {
         title: "RERA Numbers",
         description:
-          "RERA Project Registration No.: P51800000818 | P51800001838 | P51800001137",
+          "RERA Project Registration No.: P51700048270 / P51700048278",
       },
       {
         title: "Site Address",
         description:
-          "Runwal 25 Hour Life : Ghodbunder Rd, next to Rmall, Manpada, Thane West, Thane, Maharashtra 400607",
+          "Runwal 25 Hour Life: Manpada, Next to R Mall, Ghodbunder Road, Thane (W)",
       },
     ],
     disclaimer:
