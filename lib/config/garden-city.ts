@@ -18,12 +18,11 @@ export const gardenCityConfig = {
   about:
     "Founded in 1978, Runwal Group excels in establishing sprawling residential complexes, retail shopping malls, and commercial spaces. With a mission of developing standout landmarks rather than mere living spaces, Runwal homes are known for their aesthetic designs, plush interiors, and central green landscaping. Over the course of 40 years, the firm has become a leading face in real estate and changed the Mumbai skyline.",
   contact: {
-    phone: "+919876543210",
-    whatsapp: "+919876543210",
-    email: "sales@narangprivado.com",
-    address: "Thane West, Mumbai, Maharashtra 400615",
+    phone: "+919619095795",
+    whatsapp: "+919619095795",
+    address: "Kalyan - Shil Road Dombivli East",
   },
-
+  gtmId: "GTM-54C85XZ6",
   navbar: {
     navItems: [
       {
@@ -482,7 +481,7 @@ export const gardenCityConfig = {
     callUs: {
       title: "Call Us",
       description: "Get in touch with our experts",
-      phone: "+91 98765 43210",
+      phone: "+91 96190 95795",
     },
     enquiryFeatures: [
       {
@@ -525,22 +524,15 @@ export const gardenCityConfig = {
       {
         title: "Authorised Advertiser",
         description:
-          "Government RERA Authorised Advertiser's: Home Bazaar Services Pvt Ltd, Registration No A5200000045, CIN U45400MH2013PTC242930.",
+          "Government RERA Authorised Advertiser's: Marketing Space Pvt Ltd, Registration No A51700000595, CIN U74999MH2016PTC288144",
       },
       {
         title: "RERA Numbers",
-        description:
-          "RERA Project Registration No.: P51800000818 | P51800001838 | P51800001137",
+        description: "RERA Project Registration No.: P51700022699",
       },
       {
         title: "Site Address",
-        description:
-          "Runwal Forest: Lal Bahadur Shastri Marg, Ambedkar Nagar, Kanjurmarg West, Bhandup West, Mumbai, Maharashtra 400078",
-      },
-      {
-        title: "Corporate Office",
-        description:
-          "Corporate Office: Runwal Group: 4th Floor, Runwal & Omkar Esquare, Off, Eastern Express Hwy, opp. Sion-Chunabhatti, Sion East, Signal, Mumbai, Maharashtra 400022",
+        description: "Runwal Garden City: Kalyan - Shil Road Dombivli East",
       },
     ],
     disclaimer:
@@ -548,12 +540,12 @@ export const gardenCityConfig = {
   },
 
   seo: {
-    title: "Runwal Gardens Dombivali | Luxury Apartments in Thane",
+    title:
+      "Runwal Gardens Dombivli | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Runwal Gardens Dombivali, Thane. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Runwal Gardens Dombivali. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
-      "thane west",
       "Runwal Gardens Dombivali",
       "2 bhk",
       "3 bhk",
