@@ -20,7 +20,7 @@ export const siteConfig = {
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
-    address: "Manpada, Next to R Mall, Ghodbunder Road, Thane (W)",
+    address: "Manpada,Thane (W)",
   },
   gtmId: "GTM-5MHGFLRJ",
   navbar: {
