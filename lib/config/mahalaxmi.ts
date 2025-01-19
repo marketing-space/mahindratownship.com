@@ -20,7 +20,7 @@ export const mahalaxmiConfig = {
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
-    address: "Kalyan - Shil Road Dombivli East",
+    address: "Sane Guruji Marg, Mumbai",
   },
   gtmId: "GTM-54C85XZ6",
   navbar: {
