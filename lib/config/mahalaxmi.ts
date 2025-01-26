@@ -22,7 +22,7 @@ export const mahalaxmiConfig = {
     whatsapp: "+919619095795",
     address: "Sane Guruji Marg, Mumbai",
   },
-  gtmId: "GTM-54C85XZ6",
+  gtmId: "GTM-P9VLTXPS",
   navbar: {
     navItems: [
       {
@@ -596,12 +596,12 @@ export const mahalaxmiConfig = {
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_59",
-      publicId: "7d8ee9b19e759225721aa4c65c2381d7",
+      formId: "__vtigerWebForm_90",
+      publicId: "98c068ecb96cec9f365c2713178cb1cb",
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:d0b203e8fb8ff53c5b3673fb24119e03ae930517,1680088576",
       __vtCurrency: "1",
-      name: "Runwal Gardens Dombivli",
+      name: "Runwal Mahalaxmi",
       cfLeadsProjectSite: "Swaminarayan City",
       leadSource: "Web",
       emailOptin: "1",
