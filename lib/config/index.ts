@@ -1,12 +1,18 @@
-import { gardenCityConfig } from "@/lib/config/garden-city";
-import { mahalaxmiConfig } from "@/lib/config/mahalaxmi";
+import { horizonConfig } from "@/lib/config/horizon";
 import { routes } from "./routes";
 import { siteConfig } from "./site";
+import { evergreenConfig } from "./evergreen";
+import { kharadiConfig } from "./kharadi";
+import { parkworldConfig } from "./parkworld";
+import { riverroyaleConfig } from "./riyerroyale";
 
 const configs = {
   [routes.default]: siteConfig,
-  [routes.Gardencity]: gardenCityConfig,
-  [routes.Mahalaxmi]: mahalaxmiConfig,
+  [routes.Horizon]: horizonConfig,
+  [routes.Evergreen]: evergreenConfig,
+  [routes.Kharadi]: kharadiConfig,
+  [routes.Parkworld]: parkworldConfig,
+  [routes.Riverroyale]: riverroyaleConfig, 
 };
 
 export function getSiteConfig(site?: string) {

@@ -521,9 +521,9 @@ export const siteConfig = {
 
   seo: {
     title:
-      "Runwal 25 hr Life - Manpada, Thane | Price, Floor Plans, Amenities | Request Brochure",
+      "Godrej Properties",
     description:
-      "Experience luxury living at Runwal 25 Hour Life, Manpada. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Godrej Properties. 2 & 3 BHK apartments with world-class amenities.",
     keywords: ["luxury apartments", "2 bhk", "3 bhk"],
   },
 

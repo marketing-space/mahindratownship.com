@@ -1,5 +1,8 @@
 export const routes = {
   default: "/",
-  Gardencity: "Gardencity",
-  Mahalaxmi: "Mahalaxmi",
+  Evergreen: "Evergreen",
+  Horizon: "Horizon",
+  Kharadi: "Kharadi",
+  Parkworld: "Park-World",
+  Riverroyale: "River-Royale",
 };
