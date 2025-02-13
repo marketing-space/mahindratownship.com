@@ -160,7 +160,7 @@ export const evergreenConfig = {
     },
     detailPricing: {
       image: {
-        src: "/gardencity/images/costing.webp",
+        src: "/evergreen/images/costing.webp",
         alt: "Godrej Evergreen Square Costing",
       },
       title: "Need Complete Costing Details?",

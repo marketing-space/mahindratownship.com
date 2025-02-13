@@ -173,7 +173,7 @@ export const riverroyaleConfig = {
     },
     detailPricing: {
       image: {
-        src: "/gardencity/images/costing.webp",
+        src: "/riverroyale/images/costing.webp",
         alt: "Godrej River Royale Costing",
       },
       title: "Need Complete Costing Details?",
