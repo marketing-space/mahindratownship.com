@@ -20,7 +20,7 @@ export const horizonConfig = {
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
-    address: "Wadala, Mumbai",
+    address: "Hinjewadi phase 1 , Pune",
   },
   gtmId: "GTM-5TPMHHVW",
   navbar: {
@@ -374,7 +374,7 @@ export const horizonConfig = {
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/horizon/images/banner-1.webp",
+      src: "/horizon/images/banner-1.png",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
@@ -474,7 +474,7 @@ export const horizonConfig = {
       },
       {
         title: "Site Address",
-        description: " Godrej Horizon: N M Joshi Marg, Sane Guruji Marg, Mumbai, Maharashtra 400011",
+        description: " Godrej Horizon: Godrej Experience Galleria, Hinjewadi Phase 1 ,Pune, Maharashtra 411057",
       },
     ],
     disclaimer:
@@ -575,12 +575,12 @@ export const horizonConfig = {
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_90",
-      publicId: "98c068ecb96cec9f365c2713178cb1cb",
+      formId: "__vtigerWebForm_94",
+      publicId: "e54078c9cae398ec46b50c1a5f8b277b",
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:d0b203e8fb8ff53c5b3673fb24119e03ae930517,1680088576",
       __vtCurrency: "1",
-      name: "Runwal Mahalaxmi",
+      name: "Godrej Township Horizon",
       cfLeadsProjectSite: "Swaminarayan City",
       leadSource: "Web",
       emailOptin: "1",

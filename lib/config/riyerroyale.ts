@@ -20,7 +20,7 @@ export const riverroyaleConfig = {
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
-    address: "Sane Guruji Marg, Mumbai",
+    address: " Baner-Hinjewadi Road, Pune",
   },
   gtmId: "GTM-P4VQLFGZ",
   navbar: {

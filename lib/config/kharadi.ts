@@ -20,7 +20,7 @@ export const kharadiConfig = {
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
-    address: "Kalyan - Shil Road Dombivli East",
+    address: "Kharadi, Pune",
   },
   gtmId: "GTM-PP4ZP4KZ",
   navbar: {
