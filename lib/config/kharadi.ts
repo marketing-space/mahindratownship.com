@@ -14,7 +14,7 @@ import { routes } from "./routes";
 const route = routes.Kharadi;
 
 export const kharadiConfig = {
-  name: "godrej urban retreat kharadi",
+  name: "Godrej Urban Retreat Kharadi",
   about:
     "The Godrej Group has a broad range of business ventures, including real estate development, fast-moving consumer products, cutting-edge engineering, furniture, security, and agri-care. Each Godrej Properties project blends a dedication to advanced design and technology with a 125-year tradition of excellence and trust. Godrej Properties brings the Godrej Group's innovation, sustainability, and excellence-focused principles to the real estate industry.",
   contact: {
