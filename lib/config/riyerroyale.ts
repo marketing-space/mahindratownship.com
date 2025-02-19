@@ -579,12 +579,12 @@ export const riverroyaleConfig = {
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_90",
-      publicId: "98c068ecb96cec9f365c2713178cb1cb",
+      formId: "__vtigerWebForm_97",
+      publicId: "ff24f66d684b4d0bdd34097059f20b2c",
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:d0b203e8fb8ff53c5b3673fb24119e03ae930517,1680088576",
       __vtCurrency: "1",
-      name: "Runwal Mahalaxmi",
+      name: "Godrej Township River Royale",
       cfLeadsProjectSite: "Swaminarayan City",
       leadSource: "Web",
       emailOptin: "1",

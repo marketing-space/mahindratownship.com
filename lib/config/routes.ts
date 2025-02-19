@@ -5,4 +5,6 @@ export const routes = {
   Kharadi: "Kharadi",
   Parkworld: "Park-World",
   Riverroyale: "River-Royale",
+  Mahalaxmi: "Mahalaxmi",
+  Panvel : "Panvel",
 };

@@ -5,6 +5,8 @@ import { evergreenConfig } from "./evergreen";
 import { kharadiConfig } from "./kharadi";
 import { parkworldConfig } from "./parkworld";
 import { riverroyaleConfig } from "./riyerroyale";
+import { mahalaxmiConfig } from "./mahalaxmi";
+import { panvelConfig } from "./panvel";
 
 const configs = {
   [routes.default]: siteConfig,
@@ -13,6 +15,8 @@ const configs = {
   [routes.Kharadi]: kharadiConfig,
   [routes.Parkworld]: parkworldConfig,
   [routes.Riverroyale]: riverroyaleConfig, 
+  [routes.Mahalaxmi] : mahalaxmiConfig,
+  [routes.Panvel] : panvelConfig,
 };
 
 export function getSiteConfig(site?: string) {
