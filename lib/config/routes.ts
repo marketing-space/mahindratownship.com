@@ -1,10 +1,6 @@
 export const routes = {
   default: "/",
-  Evergreen: "Evergreen",
-  Horizon: "Horizon",
-  Kharadi: "Kharadi",
-  Parkworld: "Park-World",
-  Riverroyale: "River-Royale",
-  Mahalaxmi: "Mahalaxmi",
-  Panvel : "Panvel",
+  Avalon: "Avalon",
+  Avante: "Avante",
+  VasantLawns: "Vasant-Lawns",
 };

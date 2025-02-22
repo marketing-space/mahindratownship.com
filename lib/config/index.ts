@@ -1,22 +1,14 @@
-import { horizonConfig } from "@/lib/config/horizon";
 import { routes } from "./routes";
 import { siteConfig } from "./site";
-import { evergreenConfig } from "./evergreen";
-import { kharadiConfig } from "./kharadi";
-import { parkworldConfig } from "./parkworld";
-import { riverroyaleConfig } from "./riyerroyale";
-import { mahalaxmiConfig } from "./mahalaxmi";
-import { panvelConfig } from "./panvel";
+import { avalonConfig} from "./avalon";
+import { avanteConfig } from "./avante";
+import { vasantLawnsConfig } from "./VasantLawns";
 
 const configs = {
   [routes.default]: siteConfig,
-  [routes.Horizon]: horizonConfig,
-  [routes.Evergreen]: evergreenConfig,
-  [routes.Kharadi]: kharadiConfig,
-  [routes.Parkworld]: parkworldConfig,
-  [routes.Riverroyale]: riverroyaleConfig, 
-  [routes.Mahalaxmi] : mahalaxmiConfig,
-  [routes.Panvel] : panvelConfig,
+  [routes.Avalon]: avalonConfig,
+  [routes.Avante]: avanteConfig,
+  [routes.VasantLawns]: vasantLawnsConfig,
 };
 
 export function getSiteConfig(site?: string) {

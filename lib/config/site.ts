@@ -521,9 +521,9 @@ export const siteConfig = {
 
   seo: {
     title:
-      "Godrej Properties",
+      "",
     description:
-      "Experience luxury living at Godrej Properties. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living . 2 & 3 BHK apartments with world-class amenities.",
     keywords: ["luxury apartments", "2 bhk", "3 bhk"],
   },
 
