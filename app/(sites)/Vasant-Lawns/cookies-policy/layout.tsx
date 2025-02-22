@@ -2,7 +2,7 @@ import { getSiteConfig } from "@/lib/config";
 import { routes } from "@/lib/config/routes";
 import { Metadata } from "next";
 
-const route = routes.Horizon;
+const route = routes.VasantLawns;
 
 export const metadata: Metadata = {
   title: getSiteConfig(route).cookiesPolicy.seo.title,
