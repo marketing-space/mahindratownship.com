@@ -1,14 +1,10 @@
 import { routes } from "./routes";
 import { siteConfig } from "./site";
-import { avalonConfig} from "./avalon";
-import { avanteConfig } from "./avante";
-import { vasantLawnsConfig } from "./VasantLawns";
+import { kanjurmargConfig } from "./kanjurmarg";
 
 const configs = {
   [routes.default]: siteConfig,
-  [routes.Avalon]: avalonConfig,
-  [routes.Avante]: avanteConfig,
-  [routes.VasantLawns]: vasantLawnsConfig,
+  [routes.Kanjurmarg]: kanjurmargConfig,
 };
 
 export function getSiteConfig(site?: string) {

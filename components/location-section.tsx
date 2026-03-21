@@ -43,35 +43,37 @@ export default function LocationSection() {
         </div>
 
         {/* Location Map */}
-        <div className="space-y-6">
-          <h3 className="text-xl font-bold text-gray-900">
-            {map.location.title}
-          </h3>
-          <div className="relative aspect-[4/3] sm:aspect-[16/9] rounded-lg overflow-hidden shadow-lg group">
-            <Image
-              src={map.image.src}
-              alt={map.image.alt}
-              fill
-              className="object-cover blur-[2px] group-hover:blur-[3px] group-hover:scale-110 transition-all duration-300"
-            />
-            <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors" />
-            <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-              <Button
-                size="sm"
-                className="bg-white text-gray-900 hover:bg-gray-100"
-                onClick={() =>
-                  onOpen("enquiry", {
-                    title: map.location.cta.title,
-                    description: map.location.cta.description,
-                  })
-                }
-              >
-                <MapPin className="mr-0.5 h-3.5 w-3.5 hidden sm:block" />
-                {map.location.cta.title}
-              </Button>
+        {map.image.src &&
+          <div className="space-y-6">
+            <h3 className="text-xl font-bold text-gray-900">
+              {map.location.title}
+            </h3>
+            <div className="relative aspect-[4/3] sm:aspect-[16/9] rounded-lg overflow-hidden shadow-lg group">
+              <Image
+                src={map.image.src}
+                alt={map.image.alt}
+                fill
+                className="object-cover blur-[2px] group-hover:blur-[3px] group-hover:scale-110 transition-all duration-300"
+              />
+              <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors" />
+              <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                <Button
+                  size="sm"
+                  className="bg-white text-gray-900 hover:bg-gray-100"
+                  onClick={() =>
+                    onOpen("enquiry", {
+                      title: map.location.cta.title,
+                      description: map.location.cta.description,
+                    })
+                  }
+                >
+                  <MapPin className="mr-0.5 h-3.5 w-3.5 hidden sm:block" />
+                  {map.location.cta.title}
+                </Button>
+              </div>
             </div>
           </div>
-        </div>
+        }
       </div>
 
       {/* Nearby Locations */}
