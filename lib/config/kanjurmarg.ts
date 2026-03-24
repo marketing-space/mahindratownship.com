@@ -21,9 +21,9 @@ export const kanjurmargConfig = {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     email: "sales@narangprivado.com",
-    address: "Thane West, Mumbai",
+    address: "Kanjurmarg, Bhandup",
   },
-  gtmId: "GTM-5SW9F6JN",
+  gtmId: "GTM-W9WTC923",
   navbar: {
     navItems: [
       {
@@ -536,12 +536,12 @@ Combining smart security systems, intelligently designed layouts, and expansive 
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_43",
-      publicId: "03ed84738cfbfd224271d1c36cd31135",
+      formId: "__vtigerWebForm_185",
+      publicId: "7af6712b22db350f63b3095f9115422c",
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:d0b203e8fb8ff53c5b3673fb24119e03ae930517,1680088576",
       __vtCurrency: "1",
-      name: "Sheth Township kanjurmarg",
+      name: "Mahindra Kanjura",
       cfLeadsProjectSite: "Swaminarayan City",
       leadSource: "Web",
       emailOptin: "1",
