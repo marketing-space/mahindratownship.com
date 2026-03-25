@@ -411,8 +411,8 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       details: [
         {
           title: "Mahindra Rainforest ",
-          reraNumber: "",
-          qrCode: "/kanjurmarg/images/coming.jpg",
+          reraNumber: "Project Rera Number: PR1181012502956",
+          qrCode: "/kanjurmarg/images/qr.webp",
         },
       ],
     },
@@ -430,7 +430,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       {
         title: "RERA Numbers",
         description:
-          "MAHA RERA Project Registration No.: P51700015517.",
+          "MAHA RERA Project Registration No.: PR1181012502956.",
       },
       {
         title: "Site Address",
