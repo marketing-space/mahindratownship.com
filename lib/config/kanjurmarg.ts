@@ -14,7 +14,7 @@ import { routes } from "./routes";
 const route = routes.Kanjurmarg;
 
 export const kanjurmargConfig = {
-  name: "Mahindra Lifespaces Kanjurmarg",
+  name: "Mahindra Rainforest",
   about:
     "Mahindra Lifespace Developers Limited is a prominent real estate and infrastructure developer in India and a part of the renowned Mahindra Group. Established in 1994 and headquartered in Mumbai, the company is known for delivering sustainable residential communities, integrated townships, and industrial ecosystems across the country.A pioneer in sustainable urban development, Mahindra Lifespaces develops residential projects under brands like “Mahindra Lifespaces” and “Mahindra Happinest,” while also creating large-scale integrated developments such as “Mahindra World City” and “Origins by Mahindra.”The company stands out for its strong commitment to environmental responsibility, with a 100% green portfolio focused on eco-friendly construction and energy-efficient living. It has set an ambitious goal of achieving carbon neutrality by 2040 and is among the early adopters in India to align with global sustainability frameworks like the Science Based Targets initiative (SBTi), reinforcing its leadership in responsible and future-ready development.",
   contact: {
@@ -65,7 +65,7 @@ export const kanjurmargConfig = {
     cta: {
       title: "Download Brochure",
       description:
-        "Download the brochure to learn more about Mahindra Lifespaces Kanjurmarg.",
+        "Download the brochure to learn more about Mahindra Rainforest.",
     },
   },
 
@@ -79,27 +79,27 @@ export const kanjurmargConfig = {
     banners: [
       {
         src: "/kanjurmarg/images/banner-1.jpg",
-        alt: "Mahindra Lifespaces Kanjurmarg.",
+        alt: "Mahindra Rainforest.",
       },
       {
         src: "/kanjurmarg/images/banner-2.jpg",
-        alt: "Mahindra Lifespaces Kanjurmarg Interior",
+        alt: "Mahindra Rainforest Interior",
       },
     ],
     welcome: {
       cta: {
         title: "Download Brochure",
         description:
-          "Download the brochure to learn more about Mahindra Lifespaces Kanjurmarg.",
+          "Download the brochure to learn more about Mahindra Rainforest.",
       },
-      title: "Welcome to Mahindra Lifespaces Kanjurmarg",
-      description: `Mahindra Lifespaces Kanjurmarg is an expansive 37-acre mixed-use development designed to seamlessly integrate modern residences, commercial spaces, and everyday conveniences in the prime locale of Kanjurmarg.
+      title: "Welcome to Mahindra Rainforest",
+      description: `Mahindra Rainforest is an expansive 37-acre mixed-use development designed to seamlessly integrate modern residences, commercial spaces, and everyday conveniences in the prime locale of Kanjurmarg.
 
 The project features a striking 9-level elevated podium and a collection of 12 iconic towers, with Phase 1 comprising 5 towers. Each tower is thoughtfully planned with just six apartments per floor, ensuring privacy and exclusivity, while every home is complemented by a private balcony that enhances openness and natural light.
 
 Residents can indulge in over 70,000 sq. ft. of curated lifestyle amenities, alongside sustainable design elements that promote eco-friendly living. With excellent connectivity to major hubs across Mumbai, the development offers a well-balanced urban lifestyle.
 
-Combining smart security systems, intelligently designed layouts, and expansive green open spaces, Mahindra Lifespaces Kanjurmarg creates a future-ready living environment—making it a sought-after address for modern families seeking comfort, connectivity, and a premium lifestyle.`,
+Combining smart security systems, intelligently designed layouts, and expansive green open spaces, Mahindra Rainforest creates a future-ready living environment—making it a sought-after address for modern families seeking comfort, connectivity, and a premium lifestyle.`,
     },
     offer: {
       title: "Booking Open: Limited Time Only",
@@ -128,7 +128,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       ],
       price: {
         title: "Luxury 2 & 3 BHK Starts At",
-        value: "₹ 1.99 Cr*",
+        value: "1.94 Cr*",
         suffix: "Onwards",
       },
     },
@@ -141,14 +141,14 @@ Combining smart security systems, intelligently designed layouts, and expansive 
     prices: [
       {
         type: "2 BHK",
-        carpetArea: "600 Sq.ft. - 900 Sq.ft.",
-        price: "1.99 Cr*",
+        carpetArea: "662 –  Sq.ft. - 863 Sq.ft.",
+        price: "1.94 Cr*",
         suffix: "Onwards",
       },
       {
         type: "3 BHK",
-        carpetArea: "900 Sq.ft. - 1300 Sq.ft.",
-        price: "2.99 Cr*",
+        carpetArea: "968 Sq.ft. - 1300 Sq.ft.",
+        price: "3 Cr*",
         suffix: "Onwards",
       },
     ],
@@ -159,7 +159,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
     detailPricing: {
       image: {
         src: "/kanjurmarg/images/costing.webp",
-        alt: "Mahindra Lifespaces Kanjurmarg.",
+        alt: "Mahindra Rainforest.",
       },
       title: "Need Complete Costing Details?",
       description:
@@ -183,7 +183,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       },
       cta: {
         title: "View Master Plan",
-        description: "Explore the layout of Mahindra Lifespaces Kanjurmarg.",
+        description: "Explore the layout of Mahindra Rainforest.",
       },
     },
     floorPlans: {
@@ -203,7 +203,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       ],
       cta: {
         title: "Enquire Now",
-        description: "Explore the layout of Mahindra Lifespaces Kanjurmarg.",
+        description: "Explore the layout of Mahindra Rainforest.",
       },
     },
   },
@@ -214,7 +214,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       "Discover a lifestyle enriched with premium amenities and facilities",
     cta: {
       title: "Download Amenities",
-      description: "Download the amenities of Mahindra Lifespaces Kanjurmarg.",
+      description: "Download the amenities of Mahindra Rainforest.",
     },
     amenities: [
       {
@@ -260,7 +260,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       "Experience luxury living through our carefully curated spaces",
     cta: {
       title: "Download Gallery",
-      description: "Download the gallery of Mahindra Lifespaces Kanjurmarg.",
+      description: "Download the gallery of Mahindra Rainforest.",
     },
     images: [
       {
@@ -332,7 +332,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
 
   virtualTour: {
     title: "Virtual Tour Request",
-    description: "Experience Mahindra Lifespaces Kanjurmarg from the comfort of your home",
+    description: "Experience Mahindra Rainforest from the comfort of your home",
     cta: {
       title: "Request Virtual Tour",
       description: "Schedule at your convenience",
@@ -343,7 +343,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
     },
     videoTitle: "Virtual Tour",
     videoDescription:
-      "Experience Mahindra Lifespaces Kanjurmarg from the comfort of your home",
+      "Experience Mahindra Rainforest from the comfort of your home",
     features: [
       {
         title: "360° Views",
@@ -407,10 +407,10 @@ Combining smart security systems, intelligently designed layouts, and expansive 
     rera: {
       title: "RERA Information",
       description: "",
-      // "Mahindra Lifespaces Kanjurmarg is registered via MahaRERA registration number: P51700015517 and is available on the website <a href='https://maharera.mahaonline.gov.in/'>https://maharera.mahaonline.gov.in/</a> under registered projects.",
+      // "Mahindra Rainforest is registered via MahaRERA registration number: P51700015517 and is available on the website <a href='https://maharera.mahaonline.gov.in/'>https://maharera.mahaonline.gov.in/</a> under registered projects.",
       details: [
         {
-          title: "Mahindra Lifespaces Kanjurmarg ",
+          title: "Mahindra Rainforest ",
           reraNumber: "",
           qrCode: "/kanjurmarg/images/coming.jpg",
         },
@@ -443,13 +443,13 @@ Combining smart security systems, intelligently designed layouts, and expansive 
   },
 
   seo: {
-    title: "Mahindra Lifespaces Kanjurmarg | Luxury Apartments in Thane",
+    title: "Mahindra Rainforest | Luxury Apartments in Thane",
     description:
-      "Experience luxury living at Mahindra Lifespaces Kanjurmarg, Thane. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Mahindra Rainforest, Thane. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "thane west",
-      "Mahindra Lifespaces Kanjurmarg",
+      "Mahindra Rainforest",
       "2 bhk",
       "3 bhk",
     ],
@@ -457,7 +457,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
 
   termsAndConditions: {
     seo: {
-      title: "Mahindra Lifespaces Kanjurmarg | Terms & Conditions",
+      title: "Mahindra Rainforest | Terms & Conditions",
       description:
         "Please read these terms and conditions carefully before using our website.",
     },
@@ -485,7 +485,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
 
   privacyPolicy: {
     seo: {
-      title: "Mahindra Lifespaces Kanjurmarg | Privacy Policy",
+      title: "Mahindra Rainforest | Privacy Policy",
       description: "This policy explains how we use your personal information.",
     },
     title: "Privacy Policy",
@@ -506,7 +506,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
 
   cookiesPolicy: {
     seo: {
-      title: "Mahindra Lifespaces Kanjurmarg | Cookies Policy",
+      title: "Mahindra Rainforest | Cookies Policy",
       description:
         "This policy explains how we use cookies and similar technologies on our website.",
     },
@@ -529,8 +529,8 @@ Combining smart security systems, intelligently designed layouts, and expansive 
 
   thankYou: {
     seo: {
-      title: "Mahindra Lifespaces Kanjurmarg | Thank You",
-      description: "Thank you for your interest in Mahindra Lifespaces Kanjurmarg.",
+      title: "Mahindra Rainforest | Thank You",
+      description: "Thank you for your interest in Mahindra Rainforest.",
     },
   },
 
@@ -549,7 +549,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
     email: {
       apiEndpoint: "/api/send-email",
       template: {
-        subject: "New Enquiry from Mahindra Lifespaces Kanjurmarg.",
+        subject: "New Enquiry from Mahindra Rainforest.",
       },
     },
   },
