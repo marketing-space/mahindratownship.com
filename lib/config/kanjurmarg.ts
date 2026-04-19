@@ -128,7 +128,7 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       ],
       price: {
         title: "Luxury 2 & 3 BHK Starts At",
-        value: "1.94 Cr*",
+        value: "1.99 Cr",
         suffix: "Onwards",
       },
     },
@@ -142,13 +142,13 @@ Combining smart security systems, intelligently designed layouts, and expansive 
       {
         type: "2 BHK",
         carpetArea: "662 –  Sq.ft. - 863 Sq.ft.",
-        price: "1.94 Cr*",
+        price: "1.99 Cr",
         suffix: "Onwards",
       },
       {
         type: "3 BHK",
         carpetArea: "968 Sq.ft. - 1300 Sq.ft.",
-        price: "3 Cr*",
+        price: "2.99 Cr",
         suffix: "Onwards",
       },
     ],
